@@ -35,7 +35,7 @@
 			<tr>
 				<td width="91">Họ tên bạn</td>
 				<td width="164">
-				<input type="text" name="ten" id="chao3" /></td>
+				<input placeholder="Enter your name" type="text" name="ten" id="chao3" /></td>
 			</tr>
 			<tr>
 				<td colspan="2" align="center">
