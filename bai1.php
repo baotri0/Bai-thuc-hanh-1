@@ -27,7 +27,7 @@
 			$chao = "";
 		}
 	?>
-	<form action="bai2.php" method="post" >
+	<form action="bai1.php" method="post" >
 		<table width="271" border="1">
 			<tr>
 				<td colspan="2"><strong>In lời chào</strong></td>
